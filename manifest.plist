@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.31.131:8038/app/hongyuapp.ipa</string>
+					<string>http://192.168.31.131/app/hongyu.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://192.168.31.131:8038/app/images/logo57white.png</string>
+					<string>http://192.168.31.131/app/images/logo57white.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.31.131:8038/app/images/logo512white.png</string>
+					<string>http://192.168.31.131/app/images/logo512white.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.hongyu.hongyuapp</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>宏宇集团 移动办公</string>
+				<string>hongyuapp</string>
 			</dict>
 		</dict>
 	</array>
