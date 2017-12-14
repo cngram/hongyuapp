@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://61.142.209.86:8038/app/hongyuapp.ipa</string>
+					<string>https://app.hyjt12345.com/app/hongyuapp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://61.142.209.86:8038/app/images/logo57white.png</string>
+					<string>https://app.hyjt12345.com/app/images/logo57white.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://61.142.209.86:8038/app/images/logo512white.png</string>
+					<string>https://app.hyjt12345.com/app/images/logo512white.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.hongyu.hongyuapp</string>
 				<key>bundle-version</key>
-				<string>1.7</string>
+				<string>1.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
